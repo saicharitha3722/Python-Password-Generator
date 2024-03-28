@@ -1,4 +1,3 @@
-Sure, let's break down the code line by line:
 
 1. ```python
    import random
